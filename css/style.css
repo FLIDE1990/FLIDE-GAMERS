@@ -1,0 +1,18 @@
+/* h1 {
+    color:steelblue
+} */
+*{
+    font-family:system-ui,'Helvetica Neue', sans-serif
+}
+.mainhead{
+    color: steelblue;
+    font-size: larger; 
+}
+.description{
+    font-size: 20px;
+}
+.container{
+width: 100%;
+max-width: 980px;
+margin: 0 auto;
+}
